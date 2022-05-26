@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafael
 -
-- 🌱 I’m currently learning JAVASCRIPT | TYPESCRIPT | REACTJS | SASS | TAILWIND | NODEJS | MONGODB .
+- 🌱 I’m currently learning JAVASCRIPT | TYPESCRIPT | REACTJS | NODEJS 
 -
 - 📫 How to reach me rafaelpaivavitor@hotmail.com
 
