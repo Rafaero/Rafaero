@@ -1,5 +1,7 @@
 ![Rafael Vitor · Senior ServiceNow Consultant & Developer](assets/banner.svg)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-vitor-servicenow) [![Portfolio](https://img.shields.io/badge/Portfolio-1d2b4a?style=for-the-badge&logo=githubpages&logoColor=f2d06b)](https://rafaero.github.io/rafael-vitor)
+
 # Hi, I'm Rafael Vitor 👋
 
 **Senior ServiceNow Consultant and Developer** from Brazil, with 9+ years delivering enterprise solutions across financial services, energy, retail and telecommunications.
@@ -39,4 +41,4 @@ Postgraduate in Solutions Architecture (PUC Minas), postgraduate in AI and Cyber
 
 ## 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/rafael-vitor-servicenow) · [Portfolio](https://rafaero.github.io/rafael-vitor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-vitor-servicenow) [![Portfolio](https://img.shields.io/badge/Portfolio-1d2b4a?style=for-the-badge&logo=githubpages&logoColor=f2d06b)](https://rafaero.github.io/rafael-vitor)
