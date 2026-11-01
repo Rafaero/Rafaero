@@ -18,7 +18,23 @@ I design and build on the Now Platform end to end: ITSM, CSM and SPM, integratio
 - **A trip through 28 cities:** from Aspen to Brazil, with stamps, postcards and a certificate for each level.
 - **Three languages:** English, Portuguese and Spanish.
 
+![NowTilus Academy on a phone: the home page, an SLA definition in the simulator and a queue of tickets](assets/nowtilus-screens.png)
+
 Follow it on [LinkedIn](https://www.linkedin.com/company/nowtilus-academy).
+
+## 🩺 Examay
+
+**[examay.com](https://examay.com)** helps people understand their medical exams with AI: upload a PDF or a photo, and it reads every result, flags what is out of range and explains it in plain words.
+
+- **Reads the exam itself:** lab, imaging and pathology reports, page by page, with Gemini on Vertex AI.
+- **Action plans:** diet, training, supplements, sleep and care, built from the results and the person's profile.
+- **A chat that knows the results:** medical terms explained in the tone the person prefers.
+- **Private by design:** share links that expire in 7 days, and delete everything at any time.
+- **Built on** React, Firebase, Cloud Functions, Vertex AI and Stripe.
+
+![Examay on a phone: the home page and what it does](assets/examay-screens.png)
+
+_Examay supports, and never replaces, a doctor's diagnosis or care._
 
 ## 🛠️ What I work with
 
