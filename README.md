@@ -1,3 +1,5 @@
+![Rafael Vitor · Senior ServiceNow Consultant & Developer](assets/banner.svg)
+
 # Hi, I'm Rafael Vitor 👋
 
 **Senior ServiceNow Consultant and Developer** from Brazil, with 9+ years delivering enterprise solutions across financial services, energy, retail and telecommunications.
@@ -17,6 +19,8 @@ I design and build on the Now Platform end to end: ITSM, CSM and SPM, integratio
 Follow it on [LinkedIn](https://www.linkedin.com/company/nowtilus-academy).
 
 ## 🛠️ What I work with
+
+[![JavaScript, Node.js, React, C#, GraphQL and AWS](https://skillicons.dev/icons?i=js,nodejs,react,cs,graphql,aws)](https://skillicons.dev)
 
 - **ServiceNow:** ITSM, CSM, SPM, CSDM and CMDB, Flow Designer, IntegrationHub, UI Builder, ATF, Virtual Agent, Employee Center
 - **Development:** JavaScript (Business Rules, Client Scripts, UI Policies, Script Includes), Node.js, React, C#
