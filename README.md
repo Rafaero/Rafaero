@@ -32,7 +32,7 @@ Follow it on [LinkedIn](https://www.linkedin.com/company/nowtilus-academy).
 - **Private by design:** share links that expire in 7 days, and delete everything at any time.
 - **Built on** React, Firebase, Cloud Functions, Vertex AI and Stripe.
 
-![Examay on a phone: the home page and what it does](assets/examay-screens.png)
+![Examay on a phone: the reports list, a blood test result, the action plans and a diet plan](assets/examay-screens.png)
 
 _Examay supports, and never replaces, a doctor's diagnosis or care._
 
